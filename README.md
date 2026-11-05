@@ -2,6 +2,8 @@
 
 A simple and beginner-friendly **BMI (Body Mass Index) Calculator** built using Python and Streamlit. This application calculates BMI based on the user's weight and height and displays the corresponding BMI category.
 
+## Demo : (https://fit-check.streamlit.app/)
+
 ## 🚀 Features
 
 - Calculate BMI using height and weight.
